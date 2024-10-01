@@ -1,0 +1,21 @@
+{
+  "name": "api-noticia",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de notícias",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "rundev": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
+
+
